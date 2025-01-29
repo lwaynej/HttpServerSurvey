@@ -11,6 +11,11 @@
 | [restclient-cpp](https://github.com/mrtazz/restclient-cpp) | 1.0k  | 360   | MIT        | Jan 28, 2025 | 25          | 100           | 3        | 50         | Jul 22, 2024        | Annually          | C++11                 |
 | [restc-cpp](https://github.com/jgaa/restc-cpp)             | 623   | 96    | MIT        | Jan 28, 2025 | 15          | 60            | 2        | 30         | Jun 18, 2024        | Annually          | C++11                 |
 | [TinyAPI](https://github.com/GazPrash/TinyAPI)             | 100   | 20    | MIT        | Jan 28, 2025 | 5           | 20            | 1        | 10         | May 5, 2024         | Annually          | C++11                 |
+| [h2o](https://github.com/h2o/h2o)                          | 11K   | 853   | MIT        | Jan 2025     | 585         | 740           | 109      | 2,006      | Aug 13, 2019        | sparadic          | C                     |
+| [uWebSockets](https://github.com/uNetworking/uWebSockets)  | 17.6k | 1.8k  | Apache 2.0 | Jan 28, 2025 | 24          | 501           | 6        | 312        | Jan 28, 2025        | Bi-Monthly        | C/C++                 |
+| [httpserver.h](https://github.com/jeremycw/httpserver.h)   | 1.8K  | 146   | MIT        | 2023         | 19          | 14            | 5        | 35         | -                   | -                 | C                     |
+| [CppServer](https://github.com/chronoxor/CppServer)        | 1.5k  | 295   | MIT        | Mar 9, 2024  | 56          | 39            | 2        | 1          | Nov 19, 2023        | Yearly            | C++                   |
+| [lithium](https://github.com/matt-42/lithium)              | 1.3k  | 92    | MIT        | May 31, 2022 | 24          | 37            | 5        | 23         | -                   |  -                | C++                   | 
 
 ## cpprestsdk (C++ REST SDK)
 Developed by Microsoft, this library provides a simple API for HTTP client and 
